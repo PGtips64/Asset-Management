@@ -1,6 +1,6 @@
 # 2214 Asset Management Group Assignment - Summary
 
-[cite_start]This project executes a comprehensive analysis of active and passive investment strategies, structured across three interconnected modules: mutual fund performance evaluation, constrained mean-variance portfolio optimization, and an in-depth study of a renowned investor's strategy (Buffett's Alpha)[cite: 24, 57, 95].
+This project executes a comprehensive analysis of active and passive investment strategies, structured across three interconnected modules: mutual fund performance evaluation, constrained mean-variance portfolio optimization, and an in-depth study of a renowned investor's strategy (Buffett's Alpha).
 
 ---
 
@@ -8,8 +8,8 @@
 
 | Module | Primary Goal | Data Utilized |
 | :--- | :--- | :--- |
-| **1. Performance Analysis (10 Funds)** | [cite_start]Evaluate the **alpha and value-added** (gross and net) of 10 active mutual funds against various benchmarks (CAPM, FF5, CPZ Index-Based), and characterize their factor exposures[cite: 24, 25, 36, 41, 45]. | [cite_start]Mutual fund returns, fees, AUM, CPI, FF 5-Factor returns[cite: 25, 26, 27]. |
-| **2. Portfolio Choice (21 Assets)** | [cite_start]Construct and back-test **optimal portfolios** (Tangency and Minimum Variance) from a universe of 21 risky assets (10 active funds and 11 passive index funds) under practical investment constraints[cite: 57, 59, 67, 71]. | [cite_start]Returns for 10 active and 11 passive index funds, risk-free rate[cite: 58, 59]. |
+| **1. Performance Analysis (10 Funds)** | Evaluate the **alpha and value-added** (gross and net) of 10 active mutual funds against various benchmarks (CAPM, FF5, CPZ Index-Based), and characterize their factor exposures[cite: 24, 25, 36, 41, 45]. | Mutual fund returns, fees, AUM, CPI, FF 5-Factor returns. |
+| **2. Portfolio Choice (21 Assets)** | Construct and back-test **optimal portfolios** (Tangency and Minimum Variance) from a universe of 21 risky assets (10 active funds and 11 passive index funds) under practical investment constraints[cite: 57, 59, 67, 71]. | Returns for 10 active and 11 passive index funds, risk-free rate[cite: 58, 59]. |
 | **3. Buffett's Alpha** | [cite_start]Determine the factor-adjusted performance (alpha) of **Berkshire Hathaway** and its public stock portfolio, and analyze the financial and factor characteristics of key acquisitions (Lubrizol, Heinz)[cite: 95, 96, 107]. | [cite_start]Berkshire returns, public stock portfolio returns, factor returns, Lubrizol/Heinz data[cite: 96]. |
 
 ---
